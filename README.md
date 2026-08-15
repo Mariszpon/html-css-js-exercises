@@ -46,7 +46,7 @@ Ao longo deste período, eu percebi que já evoluí bastante em lógica e progra
 ## ♯ Finalização: <a id="finalizacao"></a>
 
 ### ⟢ Tecnologias Utilizadas:
-[![Html](https://img.shields.io/badge/Html-3776AB?logo=htmln&logoColor=fff)](#)&nbsp;
+[![Html](https://img.shields.io/badge/Html-3776AB?logo=html5&logoColor=fff)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Vscode](https://img.shields.io/badge/VsCode-000?logo=vscodem&logoColor=fff)](#)&nbsp;
+[![Vscode](https://img.shields.io/badge/VsCode-000?logo=visualstudiocode&logoColor=fff)](#)&nbsp;

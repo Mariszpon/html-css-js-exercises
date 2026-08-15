@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ⤷ Exercícios em Html 🐍 </h1>
+<h1> ⤷ Exercícios em Html 🌐 </h1>
 <p>
   <img src="https://img.shields.io/badge/status-em%20construção-yellow" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
@@ -18,28 +18,23 @@
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-Este repositório marca o início da minha trajetória em programação, reunindo desde Março de 2026 exercícios acadêmicos em Python, desenvolvidos como parte da disciplina de programação no início da graduação.
-Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Python.
+Este repositório marca o início da minha trajetória em programação, reunindo desde Agosto de 2026 exercícios acadêmicos em Html, desenvolvidos como parte da disciplina de programação WEB no início da graduação.
+Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Html.
 
 ### ⟢ Conceitos Aplicados:
-* Estruturas de repetição (while/for);
-* Estruturas condicionais (if/elif/else);
-* Manipulação de strings (.lower());
-* Validação de entradas;
-* Biblioteca 'random';
-* Estilização com códigos.
+* Em construção.
 
 ---
 
 ## ♯ Objetivo: <a id="objetivo"></a>
 
-Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e documentar meu progresso acadêmico ao longo da graduação.
+Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Html e documentar meu progresso acadêmico ao longo da graduação.
 
 ---
 
 ## ♯ Notas Pessoais: <a id="notaspessoais"></a>
 
-Ao longo deste período, eu percebi que já evoluí bastante em lógica e programação, mas apresento pontos em que pretendo melhorar.
+Em construção.
 
 ---
 

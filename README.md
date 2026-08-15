@@ -1,7 +1,7 @@
 <div align="center">
 <h1> ⤷ Exercícios em Html 🌐 </h1>
 <p>
-  <img src="https://img.shields.io/badge/status-em%20construção-yellow" />
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
   <img src="https://img.shields.io/badge/linguagem-html-orange" />
 </p>
@@ -22,7 +22,7 @@ Este repositório marca o início da minha trajetória em programação, reunind
 Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Html.
 
 ### ⟢ Conceitos Aplicados:
-* Em construção.
+* Em desenvolvimento.
 
 ---
 
@@ -34,7 +34,7 @@ Este repositório tem como objetivo guardar minhas práticas de conceitos fundam
 
 ## ♯ Notas Pessoais: <a id="notaspessoais"></a>
 
-Em construção.
+Em desenvolvimento.
 
 ---
 

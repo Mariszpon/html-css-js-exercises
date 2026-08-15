@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/status-em%20construção-brightgreen" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-orange" />
-  <img src="https://img.shields.io/badge/linguagem-HTML-blue" />
+  <img src="https://img.shields.io/badge/linguagem-HTML5%logoColor=blue" />
 </p>
 
 <p>

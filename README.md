@@ -1,9 +1,9 @@
 <div align="center">
-<h1> ⤷ Exercícios em Html 🌐 </h1>
+<h1> ⤷ Exercícios em Html, Css e JavaScript 🌐 </h1>
 <p>
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
-  <img src="https://img.shields.io/badge/linguagem-html-orange" />
+  <img src="https://img.shields.io/badge/linguagem-html%20&%20CSS%20&%20JS-orange" />
 </p>
 
 <p>

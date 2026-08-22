@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Marispon-green?style=for-the-badge" />
-</p>
-
 <p>
   <a href="#introducao">Introdução</a> •
   <a href="#objetivo">Objetivo</a> •
@@ -54,7 +50,6 @@ Em desenvolvimento.
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-
 <p align="center">
-  <img scr="https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge&logo=github"
+  <img src="https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge" />
 </p>

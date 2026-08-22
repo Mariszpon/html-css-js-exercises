@@ -1,9 +1,11 @@
 <div align="center">
-<h1> ⤷ Exercícios em Html, Css e JavaScript 🌐 </h1>
+<h1> ⤷ Exercícios em Html, CSS e JavaScript 🌐 </h1>
 <p>
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-purple" />
-  <img src="https://img.shields.io/badge/linguagem-html%20&%20CSS%20&%20JS-orange" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
 </p>
 
 <p>
@@ -43,5 +45,7 @@ Em desenvolvimento.
 ### ⟢ Tecnologias Utilizadas:
 [![Html](https://img.shields.io/badge/Html-3776AB?logo=html5&logoColor=fff)](#)&nbsp;
 [![Vscode](https://img.shields.io/badge/VsCode-000?logo=visualstudiocode&logoColor=fff)](#)&nbsp;
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)

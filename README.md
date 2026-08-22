@@ -51,16 +51,5 @@ Em desenvolvimento.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20by-Marispon-teal?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20by-Marispon-palevioletred?style=for-the-badge"/>
 </p>
-
-<img src="https://img.shields.io/badge/Made%20by-Marispon-pink?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Made%20by-Marispon-hotpink?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Made%20by-Marispon-deeppink?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Made%20by-Marispon-lightpink?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Made%20by-Marispon-palevioletred?style=for-the-badge"/>
-

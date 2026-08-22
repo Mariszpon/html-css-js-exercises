@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sitezinho</title>
+    </head>
+    <body>
+        <h1>Formulário de personagem D&D</h1>
 
+        <h3>Digite o nome completo do seu personagem:</h3>
+        <input type="text" placeholder="Nome" id="nome">
+
+        <h3>Digite seu e-mail para contato:</h3>
+        <input type="email" placeholder="E-mail" id="email">
+
+        <h3>Digite a senha do seu cofre mágico:</h3>
+        <input type="password" placeholder="Digite a senha do seu cofre mágico" id="senha">
+
+        <h3>Digite sua data de nascimento do seu personagem:</h3>
+        <input type="date" id="nascimento">
+
+        <h3>Digite seu telefone para contato:</h3>
+        <input type="tel" placeholder="Telefone" id="telefone">
+
+        <h3>Digite a idade do seu personagem idade:</h3>
+        <input type="number" placeholder="Idade" id="idade">
+
+        <h3>Escolha sua cor da vestimenta do seu personagem:</h3>
+        <input type="color" id="cor">
+
+        <h3>Escolha sua classe:</h3>
+        <select id="curso">
+            <option value="">Selecione...</option>
+            <option value="b"></option>Bardo</option>
+            <option value="m">Mago</option>
+            <option value="bb">Bárbaro</option>
+            <option value="c">Clérigo</option>
+        </select>
+
+        <h3>Escolha seu sexo:</h3>
+        <input type="radio" name="sexo" value="m" id="sexoM"><label for="sexoM">Masculino</label>
+        <input type="radio" name="sexo" value="f" id="sexoF"><label for="sexoF">Feminino</label>
+        <input type="radio" name="sexo" value="o" id="sexoO"><label for="sexoO">Outro</label>
+
+        <h3>Marque itens do seu inventário:</h3>
+        <input type="checkbox" name="inventário" value="mochila" id="int1"><label for="inv1">Jogos</label>
+        <input type="checkbox" name="inventário" value="programacao" id="int2"><label for="inv2">Programação</label>
+        <input type="checkbox" name="inventário" value="hardware" id="int3"><label for="inv3">Hardware</label>
+
+        <h3>Digite o site do card de seu personagem:</h3>
+        <input type="url" placeholder="Site" id="site">
+
+        <h3>Escolha seu nível:</h3>
+        <input type="range" min="0" max="10" value="5" id="Nível">
+
+        <h3>Envie uma imagem de seu personagem:</h3>
+        <input type="file" id="arquivo">
+
+        <h3>Seu personagem tem algum poder especial::</h3>
+        <input type="text" placeholder="Escreva algo !!" id="mensagem">
+
+        <p></p>
+    </body>
+    <label>Site feito por Mariana Pondé</label>
+</html>

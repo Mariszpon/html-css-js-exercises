@@ -51,4 +51,6 @@ Em desenvolvimento.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 
-<p align="center">![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge&logo=github)</p>
+<p align="center">
+  <img scr="https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge&logo=github"
+    </p>

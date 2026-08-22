@@ -50,4 +50,4 @@ Em desenvolvimento.
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
-made by [Mariszpon](https://github.com/Mariszpon)
+![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-pink?style=for-the-badge&logo=github

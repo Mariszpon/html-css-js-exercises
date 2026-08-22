@@ -20,8 +20,8 @@
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-Este repositório marca o início da minha trajetória em programação, reunindo desde Agosto de 2026 exercícios acadêmicos em Html, desenvolvidos como parte da disciplina de programação WEB no início da graduação.
-Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Html.
+Este repositório marca o início da minha trajetória em programação desde Agosto de 2026. Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos como parte da disciplina de programação WEB no início da graduação.
+Os arquivos estão organizados por exercícios da disciplina, cada uma abordando um tema diferente de desenvolvimento front-end.
 
 ### ⟢ Conceitos Aplicados:
 * Em desenvolvimento.
@@ -30,7 +30,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada um abordando 
 
 ## ♯ Objetivo: <a id="objetivo"></a>
 
-Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Html e documentar meu progresso acadêmico ao longo da graduação.
+Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em **HTML, CSS e JavaScript**, documentando meu progresso acadêmico ao longo da graduação.
 
 ---
 

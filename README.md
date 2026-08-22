@@ -53,3 +53,9 @@ Em desenvolvimento.
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20by-Marispon-teal?style=for-the-badge" />
 </p>
+https://img.shields.io/badge/Made%20by-Marispon-pink?style=for-the-badge
+https://img.shields.io/badge/Made%20by-Marispon-hotpink?style=for-the-badge
+https://img.shields.io/badge/Made%20by-Marispon-deeppink?style=for-the-badge
+https://img.shields.io/badge/Made%20by-Marispon-lightpink?style=for-the-badge
+https://img.shields.io/badge/Made%20by-Marispon-palevioletred?style=for-the-badge
+

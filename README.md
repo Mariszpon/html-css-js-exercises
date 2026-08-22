@@ -20,7 +20,8 @@
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-Este repositório marca o início da minha trajetória em programação desde Agosto de 2026. Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos como parte da disciplina de programação WEB no início da graduação.
+Este repositório marca o início da minha trajetória em programação desde Agosto de 2026.
+Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos como parte da disciplina de programação WEB no início da graduação.
 Os arquivos estão organizados por exercícios da disciplina, cada uma abordando um tema diferente de desenvolvimento front-end.
 
 ### ⟢ Conceitos Aplicados:

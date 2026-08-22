@@ -52,3 +52,11 @@ Em desenvolvimento.
 
 
 ![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-green?style=for-the-badge&logo=github)
+
+![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-lightgreen?style=for-the-badge&logo=github)
+
+![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-darkgreen?style=for-the-badge&logo=github)
+
+![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-limegreen?style=for-the-badge&logo=github)
+
+![Made by Marispon](https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge&logo=github)

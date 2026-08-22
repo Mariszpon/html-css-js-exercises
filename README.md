@@ -53,4 +53,4 @@ Em desenvolvimento.
 
 <p align="center">
   <img scr="https://img.shields.io/badge/Made%20by-Marispon-seagreen?style=for-the-badge&logo=github"
-    </p>
+</p>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Operações</title>
+    <link rel="stylesheet" href="style2.css"> <!-- Link pro CSS 2 -->
+    <link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet"> <!-- Fontes -->
+</head>
+<body>
+
+    <div class="main">
+
+
+        <!--Botão pra calculadora maior-menor-->
+        <button type="button" class="btnTopo" onclick="window.location.href='maior-menor.html'">Alterar Calculadora</button>
+        
+        <!--Calculadora de Operações-->
+        <!--Deixei textarea pra colocar quantos números o usuário quiser-->
+        <textarea id="numeros" placeholder="Digite números separados por vírgula"></textarea>
+
+        <h1 id="resultado">O resultado é...</h1>
+        <h1 id="mensagem"></h1>
+
+    <!-- Botões de Operação -->
+        <div class="botoesOp">
+
+        <button type="button" class="btn" onclick="setOperacao('+')">+</button>
+        <button type="button" class="btn" onclick="setOperacao('-')">−</button>
+        <button type="button" class="btn" onclick="setOperacao('*')">×</button>
+        <button type="button" class="btn" onclick="setOperacao('/')">÷</button>
+        <button type="button" class="btn" onclick="calcular()">=</button>
+        <button type="button" class="btn" onclick="limpar()">Limpar Tudo</button>
+
+        </div>
+
+
+    </div>
+
+
+    <script src="funcoes.js"></script>  
+</body>
+</html>

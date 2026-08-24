@@ -1,0 +1,103 @@
+*{
+    font-family: "Dongle", sans-serif;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(Fundo.jpg);
+    background-repeat:cover;
+    margin:0;
+}
+
+.main {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 320px;
+    display: flex;
+    flex-direction: column; /* organiza em coluna */
+    align-items: center;    /* centraliza os elementos */
+}
+
+/* Botão */
+.btn {
+    background: #FCC800;
+    color: #333;
+    font-size: 20px;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 4px;
+    width: 90%;             /* botão alinhado com inputs */
+}
+
+.btn:hover {
+    background: #c29b02;
+    color: white;
+}
+
+.btnTopo {
+    background: #FCC800;
+    color: #333;
+    font-size: 20px;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 4px;
+    width: 90%;             /* botão alinhado com inputs */
+}
+
+.btnTopo:hover {
+    background: #c29b02;
+    color: white;
+}
+
+
+/* Botão Topo da calculadora Maior&Menor */
+.btnTopo {
+    background: #FCC800;
+    color: #333;
+    font-size: 18px;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-bottom: 12px;   /* espaço abaixo do botão */
+    width: 90%;
+}
+
+.btnTopo:hover {
+    background: #c29b02;
+    color: white;
+}
+
+/*operacoes.html*/
+
+textarea {
+  width: 90%;
+  height: 80px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #B9D7D9;
+  border-radius: 8px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.botoesOp {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 colunas */
+  gap: 10px;
+  width: 90%;
+  margin-bottom: 10px;
+}

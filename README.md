@@ -25,6 +25,8 @@ Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos c
 Os arquivos estão organizados por exercícios da disciplina, cada uma abordando um tema diferente de desenvolvimento front-end.
 
 ### ⟢ Conceitos Aplicados:
+#### HTML:
+#### JS:
 * Em desenvolvimento.
 
 ---

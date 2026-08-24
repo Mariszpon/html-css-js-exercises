@@ -3,14 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora</title>
+    <title>Calculadora maior-menor</title>
     <link rel="stylesheet" href="style.css"> <!-- Link pro CSS -->
     <link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet"> <!-- Fontes -->
 </head>
 <body>
     <!--Essa div é pra colocar um card em volta dos outros cards-->
-    <div class="divValorMM">
+    <div class="main">
 
+        <!--Botão pra calculadora operações-->
+        <button type="button" class="btnTopo" onclick="window.location.href='operacoes.html'">Alterar Calculadora</button>
+        
+        <!--Calculadora Maior&Menor-->
         <input type="number" id="num1" placeholder="Primeiro número" required>
 
         <input type="number" id="num2" placeholder="Segundo número" required>
@@ -22,9 +26,7 @@
         <!-- onlick="" serva pra quando esse botão ser clicado, executar função do JS-->
         <button type="button" class="btn" onclick="descobrirMaior()">Descubra o maior!</button>
 
-
     </div> <!--Card que envolve os outros-->
-
 
     <script src="funcoes.js"></script>  
 </body>

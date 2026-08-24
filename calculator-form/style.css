@@ -13,7 +13,7 @@ body {
     margin:0;
 }
 
-.divValorMM {
+.main {
     background: #fff;
     padding: 30px;
     border-radius: 12px;
@@ -65,4 +65,23 @@ input::placeholder {
     margin: 10px 0;
     font-weight: bold;
     color: #333;
+}
+
+/* Botão Topo da calculadora Maior&Menor */
+.btnTopo {
+    background: #FCC800;
+    color: #333;
+    font-size: 18px;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-bottom: 12px;   /* espaço abaixo do botão */
+    width: 90%;
+}
+
+.btnTopo:hover {
+    background: #c29b02;
+    color: white;
 }

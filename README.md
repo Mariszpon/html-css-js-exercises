@@ -29,10 +29,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 * Declaração de variáveis com let (guarda valores temporários)
 * Parâmetros de função (como passar valores para dentro de uma função.)
 * Manipulação do DOM (acessar elementos do HTML)
-* Propriedades de elementos
- *.value → conteúdo de inputs/textarea.
- *.textContent → texto dentro de tags como <h1>.
- *.style.color → mudar estilo via JS.
+* Propriedades de elementos (.value, .textContent, .style.color)
 
 
 #### Conceitos de JavaScript:

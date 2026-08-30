@@ -1,1 +1,68 @@
-x
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apps</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <button class="btn" onclick="window.location.href='cards.html'">
+        Ver em Cards
+        </button>
+    
+        <table class="tabela">
+            <thead class="tabela-cabecalho">
+                <tr>
+                    <th>id</th>
+                    <th>name</th>
+                    <th>desc</th>
+                </tr>
+            </thead>
+            <tbody id="tabela-corpo" class="tabela-corpo">
+            </tbody>
+        </table>
+    </div>
+    <script src="funcoes.js" defer></script>
+</body>
+</html>
+
+<!-- 
+No HTML, toda tabela começa com <table> e termina com </table>.
+
+<thead> → é a cabeça da tabela, onde você coloca os títulos das colunas.
+Exemplo: id, name, desc.
+
+<tr> → significa table row (linha da tabela). Cada <tr> é uma linha completa.
+Dentro dele você coloca células (<th> ou <td>).
+
+<td> → significa Table Data Cell, usado para os dados normais da tabela.
+Exemplo: <td>WhatsApp</td> → cria uma célula com o valor “WhatsApp”.
+
+<th> → significa table header cell (célula de cabeçalho).
+Indica que aquela célula é um título.
+São as células da linha de cabeçalho, geralmente ficam em negrito e centralizadas por padrão.
+Exemplo: <th>id</th> cria uma célula de título chamada “id”.
+
+
+
+<tbody> → é o corpo da tabela, onde ficam os dados de verdade (as linhas com os aplicativos).
+Dentro dele você coloca vários <tr> com <td> (table data cell).
+
+👉 Então, resumindo:
+
+<thead> = cabeçalho da tabela.
+
+<tbody> = corpo da tabela.
+
+<tr> = linha.
+
+<th> = célula de título (no cabeçalho).
+
+<td> = célula de dados (no corpo). 
+-->

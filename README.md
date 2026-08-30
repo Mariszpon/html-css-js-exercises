@@ -55,6 +55,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 - Tratamento de erros com `try...catch`
 - Funções de reset/limpeza para restaurar estado inicial
 - Console para debug (`console.log`)
+- 
 ## ♯ Objetivo: <a id="objetivo"></a>
 
 Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em **HTML, CSS e JavaScript**, documentando meu progresso acadêmico ao longo da graduação.

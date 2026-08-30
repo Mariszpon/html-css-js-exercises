@@ -25,13 +25,13 @@ Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos c
 Os arquivos estão organizados por exercícios da disciplina, cada uma abordando um tema diferente de desenvolvimento front-end.
 
 ### ⟢ Conceitos Aplicados:
-### HTML
+#### HTML
 - Declaração de variáveis com `let`
 - Parâmetros de função
 - Manipulação do DOM
 - Propriedades de elementos (`.value`, `.textContent`, `.style.color`)
 
-### CSS
+#### CSS
 - Flexbox (`display: flex`, `justify-content`, `align-items`)
 - Grid (`display: grid`, `grid-template-columns`)
 - Estilização de inputs e placeholders
@@ -39,7 +39,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 - Box-shadow e border-radius
 - Background-image e centralização de layout
 
-### JavaScript
+#### JavaScript
 - Em desenvolvimento 🚧
 
 ---

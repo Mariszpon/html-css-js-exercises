@@ -24,22 +24,37 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 
 ### ⟢ Conceitos Aplicados:
 #### HTML
-- Declaração de variáveis com `let`
-- Parâmetros de função
-- Manipulação do DOM
-- Propriedades de elementos (`.value`, `.textContent`, `.style.color`)
+- Estrutura semântica de tabelas (`<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`)
+- Uso de botões com `onclick` para navegação entre páginas e execução de funções
+- Organização de conteúdo em containers (`<div class="container">`)
+- Integração de fontes externas via Google Fonts
+- Inputs e textarea para entrada de dados do usuário
 
 #### CSS
-- Flexbox (`display: flex`, `justify-content`, `align-items`)
-- Grid (`display: grid`, `grid-template-columns`)
-- Estilização de inputs e placeholders
-- Botões com hover e transições
-- Box-shadow e border-radius
-- Background-image e centralização de layout
+- Flexbox para centralização de layout (`display: flex`, `justify-content`, `align-items`)
+- Grid para organização dos cards (`display: grid`, `grid-template-columns`)
+- Estilização de tabelas com `border-collapse`, `nth-child(even/odd)` para linhas alternadas
+- Botões com hover e transições (`transition`, `:hover`)
+- Uso de `box-shadow` e `border-radius` para profundidade e suavidade
+- `background-image` responsivo com `cover` e `vh` para ocupar toda a tela
+- `overflow: hidden` para controlar conteúdo em containers arredondados
+- Estilização de inputs, placeholders e mensagens de feedback
 
 #### JavaScript
-- Em desenvolvimento. 🚧
-
+- Declaração de variáveis com `let` e `const`
+- Arrays de objetos para armazenar dados
+- Uso de `.map()` para percorrer arrays e gerar HTML dinamicamente
+- Template strings com `${}` para interpolação de valores
+- `.join("")` para transformar arrays em strings únicas
+- Manipulação do DOM com `document.getElementById`, `.innerHTML`, `.textContent`, `.style`
+- Conversão de valores com `parseFloat`
+- Validação com `isNaN` para verificar se o valor é numérico
+- Estruturas condicionais (`if`, `else if`, `else`) para lógica de comparação
+- Funções para operações matemáticas básicas (+, -, *, /)
+- Uso de `eval()` para interpretar expressões matemáticas digitadas
+- Tratamento de erros com `try...catch`
+- Funções de reset/limpeza para restaurar estado inicial
+- Console para debug (`console.log`)
 ## ♯ Objetivo: <a id="objetivo"></a>
 
 Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em **HTML, CSS e JavaScript**, documentando meu progresso acadêmico ao longo da graduação.

@@ -16,8 +16,6 @@
 </p>
 </div>
 
----
-
 ## ♯ Introdução: <a id="introducao"></a>
 
 Este repositório marca o início da minha trajetória em programação desde Agosto de 2026.
@@ -42,19 +40,13 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 #### JavaScript
 - Em desenvolvimento. 🚧
 
----
-
 ## ♯ Objetivo: <a id="objetivo"></a>
 
 Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em **HTML, CSS e JavaScript**, documentando meu progresso acadêmico ao longo da graduação.
 
----
-
 ## ♯ Notas Pessoais: <a id="notaspessoais"></a>
 
 Em desenvolvimento. 🚧
-
----
 
 ## ♯ Finalização: <a id="finalizacao"></a>
 

@@ -40,7 +40,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 - Background-image e centralização de layout
 
 #### JavaScript
-- Em desenvolvimento 🚧
+- Em desenvolvimento. 🚧
 
 ---
 
@@ -52,7 +52,7 @@ Este repositório tem como objetivo guardar minhas práticas de conceitos fundam
 
 ## ♯ Notas Pessoais: <a id="notaspessoais"></a>
 
-Em desenvolvimento.
+Em desenvolvimento. 🚧
 
 ---
 

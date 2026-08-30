@@ -25,17 +25,22 @@ Ele reúne exercícios acadêmicos em **HTML, CSS e JavaScript** desenvolvidos c
 Os arquivos estão organizados por exercícios da disciplina, cada uma abordando um tema diferente de desenvolvimento front-end.
 
 ### ⟢ Conceitos Aplicados:
-#### Conceitos de HTML:
-* Declaração de variáveis com let (guarda valores temporários)
-* Parâmetros de função (como passar valores para dentro de uma função.)
-* Manipulação do DOM (acessar elementos do HTML)
-* Propriedades de elementos (.value, .textContent, .style.color)
+### HTML
+- Declaração de variáveis com `let`
+- Parâmetros de função
+- Manipulação do DOM
+- Propriedades de elementos (`.value`, `.textContent`, `.style.color`)
 
-#### Conceitos de CSS:
+### CSS
+- Flexbox (`display: flex`, `justify-content`, `align-items`)
+- Grid (`display: grid`, `grid-template-columns`)
+- Estilização de inputs e placeholders
+- Botões com hover e transições
+- Box-shadow e border-radius
+- Background-image e centralização de layout
 
-
-#### Conceitos de JavaScript:
-* Em desenvolvimento.
+### JavaScript
+- Em desenvolvimento 🚧
 
 ---
 

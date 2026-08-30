@@ -31,6 +31,8 @@ Os arquivos estão organizados por exercícios da disciplina, cada uma abordando
 * Manipulação do DOM (acessar elementos do HTML)
 * Propriedades de elementos (.value, .textContent, .style.color)
 
+#### Conceitos de CSS:
+
 
 #### Conceitos de JavaScript:
 * Em desenvolvimento.

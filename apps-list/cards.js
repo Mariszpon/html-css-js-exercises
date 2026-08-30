@@ -10,7 +10,7 @@ let cardsProcessados = dados.map(n => `
     <div class="card">
         <h2>${n.nome}</h2>
         <p><strong>ID:</strong> ${n.id_aplicativo}</p>
-        <p><strong>DESC:</strong>${n.descricao}</p>
+        <p><strong>DESC:</strong> ${n.descricao}</p>
     </div>
 `).join("");
 
